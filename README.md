@@ -1,2 +1,2 @@
 # infovis
-infovis
+Visualización de Datos-ITBA
