@@ -8,3 +8,6 @@ Visualización de Datos-ITBA
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 * [Guía](https://guides.github.com/features/mastering-markdown/)
 * [Guía pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+### Casos COVID-19:
+[Casos COVID-19 - Tableau](https://cecilianuray.github.io/infovis//covid_dcd-chaco.html)
