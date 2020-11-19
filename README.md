@@ -11,3 +11,6 @@ Visualización de Datos-ITBA
 
 ### Casos COVID-19:
 [Casos COVID-19 - Tableau](https://cecilianuray.github.io/infovis//covid_dcd-chaco.html)
+
+### Gastos en publicidad por tipo de medio
+[Makeovermonday w46/2020 - Tableau](https://cecilianuray.github.io/infovis//w46_tableau.html)
