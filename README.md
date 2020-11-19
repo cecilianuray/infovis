@@ -6,5 +6,5 @@ Visualización de Datos-ITBA
 
 ### Links Markdown:
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía ](https://guides.github.com/features/mastering-markdown/)
-* [Guía pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [Guía Markdown ](https://guides.github.com/features/mastering-markdown/)
+* [Guía Markdown pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
