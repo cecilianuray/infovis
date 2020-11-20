@@ -14,3 +14,4 @@ Visualización de Datos-ITBA
 
 ### Gastos en publicidad por tipo de medio
 [Makeovermonday w46/2020 - Tableau](https://cecilianuray.github.io/infovis//w46_tableau.html)
+[Makeovermonday w46/2020 - RawGraph](https://cecilianuray.github.io/infovis//w46_rawgraph.html)
