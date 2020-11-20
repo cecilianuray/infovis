@@ -1,4 +1,4 @@
-# infovis
+# Infovis
 Visualización de Datos-ITBA
 
 ### Acceso a internet por país y brecha de género:
