@@ -25,3 +25,7 @@ Se trabajó con el registro diario de peso, calorías quemadas, horas de sueño 
 
 [Ver Gráfico](https://cecilianuray.github.io/infovis//Trabajo_Final.html)
 
+# Trabajo Final-Alternativa
+Se trabajó con el registro mensual de gastos. El objetivo fue vizualizar la evolución de los componentes del gasto mensual.
+
+[Ver Gráfico](https://cecilianuray.github.io/infovis//Trabajo_Final_Bis.html)
