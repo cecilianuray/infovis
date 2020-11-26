@@ -20,3 +20,8 @@ Visualización de Datos-ITBA
 ### Favs y retweets de los medios
 * [Favs y retweets de los medios - Vega Lite](https://cecilianuray.github.io/infovis//fav_y_RTs.html)
 
+##### Trabajo Final
+Se trabajó con el registro diario de peso, calorías quemadas, horas de sueño y pasos realizados. El objetivo fue visualizar la correlación de los niveles de peso con respecto a los promedios de las demás variables
+
+* [Ver Gráfico](https://cecilianuray.github.io/infovis//Trabajo_Final.html)
+
