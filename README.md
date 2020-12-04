@@ -22,8 +22,10 @@ Visualización de Datos-ITBA
 
 # Trabajo Final
 Se trabajó con el registro diario de peso, calorías quemadas, horas de sueño y pasos realizados. El objetivo fue visualizar la correlación de los niveles de peso con respecto a los promedios de las demás variables
-
+##Power Bi
 [Ver Gráfico](https://cecilianuray.github.io/infovis//Trabajo_Final.html)
+##Apache ECharts
+[Ver Gráfico](file:///C:/Users/cecil_hdlc0f7/Downloads/parallel-simple.svg)
 
 ## Trabajo Final-Alternativa
 Se trabajó con el registro mensual de gastos. El objetivo fue vizualizar la evolución de los componentes del gasto mensual.
