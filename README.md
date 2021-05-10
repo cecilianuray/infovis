@@ -32,3 +32,8 @@ Se trabajó con el registro diario de peso, calorías quemadas, horas de sueño 
 Se trabajó con el registro mensual de gastos. El objetivo fue vizualizar la evolución de los componentes del gasto mensual.
 
 [Ver Gráfico](https://cecilianuray.github.io/infovis//Trabajo_Final_Bis.html)
+
+## PRUEBA TABLERO MUNI
+Se realizó la carga de un gráfico en Power Bi con datos del Municipio de la Ciudad de Corrientes.
+
+[Ver Gráfico](https://raw.githubusercontent.com/cecilianuray/infovis/gh-pages/PRUEBA%20TABLERO%20MUNI)
